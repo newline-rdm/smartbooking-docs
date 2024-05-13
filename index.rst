@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Benvenuto alla documentazione di SmartBooking!
+Benvenuto nella documentazione ufficiale di SmartBooking!
 ==============================================
 
 **SmartBooking** è il modo più semplice per prenotare le sale riunione. 

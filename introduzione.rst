@@ -8,8 +8,7 @@ Benvenuto alla documentazione di SmartBooking! Questo progetto ti aiuterà a sem
 La documentazione è basata su Sphinx e usa il template Sphinx Read the Docs. Se è la prima volta che utilizzi Read the Docs, ecco alcuni consigli:
 
 * **Navigazione:** Utilizza la barra laterale per trovare le sezioni pertinenti.
-* **Ricerca:** Usa la barra di ricerca per trovare parole chiave o argomenti specifici.
-* **Contribuire:** Nota eventuali errori o suggerimenti? Sentiti libero di aiutare a migliorare la documentazione! [Sezione per contribuire - Come, ecc.] 
+* **Contribuire:** Nota eventuali errori o suggerimenti? Sentiti libero di aiutare a migliorare la documentazione! Crea una pull request con il cambiamento che vorresti aggiungere a questo link https://github.com/newline-rdm/smartbooking-docs
 
 **Caratteristiche principali di SmartBooking**
 

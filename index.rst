@@ -27,9 +27,4 @@ Sarai aggiornato in tempo reale su news, indisponibilit√† delle sale e tutto ci√
    dati e privacy
    note
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

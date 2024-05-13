@@ -26,4 +26,4 @@ language = 'it'
 
 html_theme = 'sphinx_rtd_theme'
 html_favicon = '_static/logo.png'
-html_static_path = []
+html_static_path = ['_static']

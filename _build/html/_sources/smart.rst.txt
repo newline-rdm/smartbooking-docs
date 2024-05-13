@@ -1,0 +1,7 @@
+Smart
+=======
+
+.. toctree::
+   :maxdepth: 4
+
+   profilo

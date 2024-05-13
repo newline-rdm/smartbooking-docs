@@ -1,0 +1,17 @@
+/* Add favicon to browser tab */
+link[rel="shortcut icon"] {
+    background-image: url("logo.png"); /* Path to your favicon */
+    background-size: contain;
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+  }
+  
+  /* Add favicon to navigation bar (optional) */
+  .wy-side-nav-search {
+    background-image: url("logo.png");
+    background-repeat: no-repeat;
+    background-position: 5px 50%; /* Adjust position as needed */
+    padding-left: 25px; /* Adjust padding to accommodate favicon */
+  }
+  

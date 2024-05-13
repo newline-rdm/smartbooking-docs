@@ -5,7 +5,6 @@
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
-import os
 
 project = 'SmartBooking'
 copyright = '2024, Mattia Cimadomo'
@@ -17,7 +16,6 @@ release = '1'
 
 extensions = ['sphinx.ext.autodoc', 'sphinx.ext.viewcode', 'sphinx.ext.napoleon', 'sphinx_rtd_theme',]
 
-templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 language = 'it'
@@ -28,6 +26,3 @@ language = 'it'
 html_theme = 'sphinx_rtd_theme'
 html_favicon = '_static/logo.png'
 html_static_path = ['_static']
-html_theme_path = [os.path.abspath(os.path.join(os.environ.get('READTHEDOCS_OUTPUT', '_build'), 'html', 'html'))]
-html_static_path = [os.path.abspath(os.path.join(os.environ.get('READTHEDOCS_OUTPUT', '_build'), 'html', 'html/_static'))]
-

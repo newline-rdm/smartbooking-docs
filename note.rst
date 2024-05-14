@@ -5,6 +5,6 @@ SmartBooking è un progetto open source creato esclusivamente da me, Mattia Cima
 
 Si basa su IFB (internet free busy). Per eseguire correttamente l'applicazione, dovete supportare la tecnologia IFB nel vostro server mail o su exchange. 
 
-Il codice sorgente è disponibile [a questo link](http://192.168.1.51/mcimadomo/smartbooking-public), disponibile solo connessi alla rete aziendale.
+Il codice sorgente è disponibile `a questo link <http://srvgitlab/mcimadomo/smartbooking-public>`, disponibile solo connessi alla rete aziendale.
 
 Siete liberi di utilizzarlo, modificarlo e distribuirlo come meglio credete. In caso vogliate contribuire, potete aprire una pull request sul repository in modo tale da poter valutare le modifiche e integrarle nel progetto.

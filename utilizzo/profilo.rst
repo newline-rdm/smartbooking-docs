@@ -12,4 +12,3 @@ Infine, è possibile selezionare la propria stanza preferita: selezionandola, qu
 
 1. cliccare sul menu a tendina e selezionare la stanza preferita
 2. cliccare su "Salva"
-3. per cancellare e tornare alla prima stanza inserita a database, cliccare su "reimposta"

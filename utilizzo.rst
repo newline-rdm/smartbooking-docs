@@ -6,9 +6,10 @@ In questa sezione scoprirai come utilizzare SmartBooking al meglio per semplific
 Puoi usare SmartBooking sia facendo l'accesso sia come utente ospite senza bisogno di accedere. Le funzionalità saranno limitate, ma potrai comunque: 
 
 1. **Visualizzare le sale disponibili**
-2. **Cercare sale disponibili**
-3. **Visualizzare le news**
-4. **Inviare un feedback in caso di problemi**
+2. **Visualizzare la disponibilità degli utenti**
+3. **Cercare sale disponibili**
+4. **Visualizzare le news**
+5. **Inviare un feedback in caso di problemi**
 
 Oltre alle attività che puoi fare senza accesso, accedendo con le tue credenziali potrai anche:
 
@@ -26,9 +27,17 @@ Oltre alle attività che puoi fare senza accesso, accedendo con le tue credenzia
 * **Cancella una Prenotazione:** Seleziona la prenotazione da cancellare e clicca su "Cancella".
 
 **Visualizzare il tuo profilo**
+
 * **Visualizzare i tuoi dati** come nome, cognome, email.
 * **Selezionare una sala preferita** da visualizzare come prima sala nella dashboard. 
 * **Visualizzare le statistiche** delle tue prenotazioni, come la sala più prenotata, il numero totale e la durata totale delle prenotazione e molto altro
+
+**Convocare riunioni**
+* **Gestione centralizzata delle convocazioni**, da qui potrai sia convocare sia visualizzare le prenotazioni recenti
+
+**Inviare richieste**
+* **Richiedi materiale o catering** per eventi particolari (cibo, bevande, allestimenti) o in cui serve del materiale tecnologico (webcam, lavagne)
+* **Invia una comunicazine al dipartimento coerente con la tua richiesta** per richiedere ciò di cui hai bisogno
 
 **Tips e Suggerimenti**
 
@@ -48,7 +57,10 @@ Oltre alle attività che puoi fare senza accesso, accedendo con le tue credenzia
    utilizzo/home
    utilizzo/prenota
    utilizzo/prenotazioni
+   utilizzo/richieste
+   utilizzo/meeting
    utilizzo/profilo
+   utilizzo/disponibilitautenti
    utilizzo/news
    utilizzo/cerca
    utilizzo/about

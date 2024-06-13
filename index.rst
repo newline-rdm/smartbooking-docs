@@ -8,7 +8,7 @@ Benvenuto nella documentazione ufficiale di SmartBooking!
 
 **SmartBooking** è il modo più semplice per prenotare le sale riunione. 
 
-Da SmartBooking potrai vedere la situazione in tempo reale delle sale, prenotarne una, invitare utenti esterni, cancellare la prenotazione e molto altro.
+Da SmartBooking potrai vedere la situazione in tempo reale delle sale e degli utenti, prenotarne una, invitare utenti esterni, cancellare la prenotazione, convocare riunioni, inviare richieste e molto altro.
 
 Sarai aggiornato in tempo reale su news, indisponibilità delle sale e tutto ciò che le riguarda. 
 

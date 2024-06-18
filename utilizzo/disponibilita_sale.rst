@@ -6,9 +6,11 @@ In questa sezione potrai visualizzare la disponibilità delle sale.
 Queste informazioni sono sincronizzate con i server di SmartBooking. 
 La visualizzazione dei dati sarà identica a quella della tabella nella pagina home, quindi anche chi ha prenotato la stanza.
 
-Nella prima tabella, si vedrà l'intera settimana della sala, basta selezionare la sala e la data.
+Nella prima tabella si vedrà l'intera settimana della sala, basta selezionare la sala e la data.
 
-La seconda riga di inserimento invece consente di recuperare la singola giornata della sala e di caricare piu tabelle e giornate insieme. Per farlo: 
+Nella seconda si vedranno tutte le sale con la disponibiità della giornata selezionata.
+
+La terza riga di inserimento invece consente di recuperare la singola giornata della sala e di caricare piu tabelle e giornate insieme. Per farlo: 
 
 1. Selezionare la sala
 2. Inserire la data

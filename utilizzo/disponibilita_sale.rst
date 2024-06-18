@@ -8,7 +8,7 @@ La visualizzazione dei dati sarà identica a quella della tabella nella pagina h
 
 Nella prima tabella si vedrà l'intera settimana della sala, basta selezionare la sala e la data.
 
-Nella seconda si vedranno tutte le sale con la disponibiità della giornata selezionata.
+Nella seconda si vedranno tutte le sale con la disponibilità della giornata selezionata.
 
 La terza riga di inserimento invece consente di recuperare la singola giornata della sala e di caricare piu tabelle e giornate insieme. Per farlo: 
 

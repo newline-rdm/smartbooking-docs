@@ -60,7 +60,8 @@ Oltre alle attività che puoi fare senza accesso, accedendo con le tue credenzia
    utilizzo/richieste
    utilizzo/meeting
    utilizzo/profilo
-   utilizzo/disponibilitautenti
+   utilizzo/disponibilita_sale
+   utilizzo/disponibilita_utenti
    utilizzo/news
    utilizzo/cerca
    utilizzo/about

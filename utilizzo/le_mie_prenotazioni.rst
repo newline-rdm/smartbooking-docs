@@ -1,5 +1,5 @@
-Prenotazioni
-============
+Le mie prenotazioni
+===================
 .. note::
 
     Hai bisogni di loggarti con la tua utenza per visualizzare questa pagina. 

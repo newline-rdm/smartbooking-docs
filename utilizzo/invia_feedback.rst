@@ -1,5 +1,5 @@
-Feedback
-========
+Invia feedback
+==============
 
 La sezione feedback serve per inviare segnalazioni inerenti a bug o features che vorresti aggiungere. Puoi comunicare qualsiasi errore abbia incontrato o qualsiasi richiesta vorresti vedere implementata.
 

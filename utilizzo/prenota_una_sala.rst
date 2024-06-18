@@ -1,5 +1,5 @@
-Prenota
-=======
+Prenota una sala
+================
 .. note::
 
     Hai bisogni di loggarti con la tua utenza per visualizzare questa pagina. 

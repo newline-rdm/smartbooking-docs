@@ -55,8 +55,8 @@ Oltre alle attività che puoi fare senza accesso, accedendo con le tue credenzia
    :maxdepth: 4
 
    utilizzo/home
-   utilizzo/prenota
-   utilizzo/prenotazioni
+   utilizzo/prenota_una_sala
+   utilizzo/le_mie_prenotazioni
    utilizzo/richieste
    utilizzo/meeting
    utilizzo/profilo
@@ -65,4 +65,4 @@ Oltre alle attività che puoi fare senza accesso, accedendo con le tue credenzia
    utilizzo/news
    utilizzo/cerca
    utilizzo/about
-   utilizzo/feedback
+   utilizzo/invia_feedback
